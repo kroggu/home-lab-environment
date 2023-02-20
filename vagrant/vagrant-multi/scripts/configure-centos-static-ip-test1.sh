@@ -9,7 +9,7 @@ ONBOOT=yes
 PREFIX=24
 IPADDR=192.168.199.1
 GATEWAY=192.168.199.254
-DNS1=8.8.8.8
+DNS1=10.129.206.49
 EOF
 
 # Be sure NOT to execute "systemctl restart network" here, so the changes take
